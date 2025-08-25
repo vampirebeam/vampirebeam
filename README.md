@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate **Full-Stack Developer** based in Bangkok, Thailand 🇹🇭.  
+I'm a passionate **Senior Full-Stack Developer** based in Bangkok, Thailand 🇹🇭.  
 I have hands-on experience in **React.js, Node.js, FastAPI, PHP (Laravel),** and modern SQL/ORM technologies. I'm dedicated to building robust, scalable web applications and have professional experience with both public and private sector projects.
 
 - 🌍  **Location:** Bangkok, Thailand  
