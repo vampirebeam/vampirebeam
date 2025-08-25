@@ -65,19 +65,6 @@ RESTful API, JWT, OAuth, Cloudflare
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/vampirebeam">
-    <img src="https://github-readme-stats.vercel.app/api?username=vampirebeam&show_icons=true&theme=radical" alt="GitHub Stats" height="170" />
-  </a>
-  <a href="https://github.com/vampirebeam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vampirebeam&layout=compact&theme=radical" alt="Top Langs" height="170" />
-  </a>
-</p>
-
----
-
 ## 🌐 Socials
 
 <p align="left">
