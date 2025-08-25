@@ -1,4 +1,4 @@
-# Hi 👋 My name is BeamParisut สุดยอดเทพมหาปะลัยจักรภพเทพพิทักรักษาชายแดน
+# Hi 👋 My name is BeamParisut
 
 ## About Me
 
@@ -7,7 +7,7 @@ I have hands-on experience in **React.js, Node.js, FastAPI, PHP (Laravel),** and
 
 - 🌍  **Location:** Bangkok, Thailand  
 - 📧  **Email:** [b_parisut@rmutsvmail.com](mailto:b_parisut@rmutsvmail.com)  
-- 🖥️  **Current Position:** Full Stack Developer
+- 🖥️  **Current Position:** Senior Full Stack Developer
 
 ---
 
