@@ -1,77 +1,182 @@
-# Hi 👋 My name is BeamParisut
+# Hi 👋 I'm Beam (Parisut)
 
-## About Me
+Technical Lead | Enterprise Systems Engineer | Distributed Systems
 
-I'm a passionate **Senior Full-Stack Developer** based in Bangkok, Thailand 🇹🇭.  
-I have hands-on experience in **React.js, Node.js, FastAPI, PHP (Laravel),** and modern SQL/ORM technologies. I'm dedicated to building robust, scalable web applications and have professional experience with both public and private sector projects.
+I'm a **Technical Lead with 7+ years of experience** building **Enterprise Systems, E-Commerce Platforms, and Cloud Infrastructure**.
 
-- 🌍  **Location:** Bangkok, Thailand  
-- 📧  **Email:** [b_parisut@rmutsvmail.com](mailto:b_parisut@rmutsvmail.com)  
-- 🖥️  **Current Position:** Senior Full Stack Developer
+I specialize in designing **scalable architectures from Frontend → Backend → Infrastructure**, including **CI/CD pipelines, distributed worker systems, and real-time platforms**.
 
----
-
-## 🚀 Skills
-
-**Web & App Development:**  
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/remix-colored.svg" height="36" alt="Next.js" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" height="36" alt="Vue" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React Native" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="36" alt="TypeScript" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="36" alt="Node.js" />
-<img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white&style=flat" height="36" alt="FastAPI" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="36" alt="PHP" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" height="36" alt="Laravel" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="36" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="36" alt="CSS3" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" height="36" alt="Tailwind CSS" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="36" alt="Bootstrap" />
-
-**Database:**  
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" alt="MySQL" />
-<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat" height="36" alt="MariaDB" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="36" alt="PostgreSQL" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="36" alt="MongoDB" />
-**ORM:** Eloquent, Sequelize, Prisma
-
-**DevOps & Tools:**  
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" height="36" alt="Docker" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="36" alt="Git" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat" height="36" alt="GitLab" />
-CI/CD, Nginx, Apache, Google Cloud
-
-**Testing & Automation:**  
-Unit Testing (Pytest), Automated SSL (Certbot), systemd
-
-**Design:**  
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" height="36" alt="Adobe XD" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" height="36" alt="Photoshop" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=flat" height="36" alt="Figma" />
-
-**Other:**  
-RESTful API, JWT, OAuth, Cloudflare
+📍 Bangkok, Thailand  
+💼 Technical Lead / Senior Full-Stack Engineer  
 
 ---
 
-## 🏆 Highlights
+# 🚀 Core Expertise
 
-- Experience with government IT projects and large-scale data handling (billions of records)
-- Strong background in both frontend (React/Next.js, Vue, React Native) and backend (Node.js, FastAPI, Laravel) stacks
-- Skilled in CI/CD, Dockerized deployments, and DevOps culture
-- Effective communicator and team player in agile environments
-- Familiar with project management, requirement analysis, and documentation
+- Enterprise System Architecture
+- Distributed Systems
+- Worker Queue Architecture
+- Real-time Platforms
+- CI/CD & DevOps
+- Performance Optimization
+- Load Testing (k6)
 
 ---
 
-## 🌐 Socials
+# 🧠 Frontend
 
 <p align="left">
-  <a href="https://github.com/vampirebeam" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a>
-  <a href="http://www.instagram.com/http_err_404" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" height="36" alt="Angular" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" height="36" alt="Vue" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" height="36" alt="NextJS" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="36" alt="TypeScript" />
+
 </p>
+
+---
+
+# ⚙️ Backend
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="36" alt="NodeJS" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" height="36" alt=".NET" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="36" alt="PHP" />
+
+</p>
+
+Frameworks
+
+FastAPI • Flask • Django • Express • Bun • ASP.NET • Laravel
+
+---
+
+# 📱 Mobile
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React Native" />
+
+</p>
+
+React Native • Expo
+
+---
+
+# ⚡ Distributed Systems
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" height="36" alt="Redis" />
+
+</p>
+
+Redis Pub/Sub  
+Worker Queue Architecture  
+Event-Driven Systems (Webhook)  
+Real-time Communication (Socket.io / WebSocket)
+
+---
+
+# ☁️ DevOps & Infrastructure
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" height="36" alt="Docker" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" height="36" alt="Kubernetes" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" height="36" alt="Nginx" />
+
+</p>
+
+Docker  
+Kubernetes  
+KEDA Autoscaling  
+ArgoCD GitOps  
+Proxmox Virtualization  
+Cloudflare  
+Load Balancer
+
+---
+
+# 📊 Monitoring
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/grafana-colored.svg" height="36" alt="Grafana" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prometheus-colored.svg" height="36" alt="Prometheus" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/elasticsearch-colored.svg" height="36" alt="Elastic" />
+
+</p>
+
+Prometheus  
+Grafana  
+OpenObserve  
+Loki / Promtail  
+Elasticsearch  
+Fluent Bit
+
+---
+
+# 🗄 Databases
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="36" alt="PostgreSQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" alt="MySQL" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="36" alt="MongoDB" />
+
+</p>
+
+PostgreSQL • MySQL • SQL Server • Oracle • MongoDB • Redis
+
+---
+
+# 🔐 API & Security
+
+OAuth2  
+JWT Authentication  
+ThaID (e-KYC)  
+SOAP Integration  
+PDPA / PDPC Compliance
+
+---
+
+# 💳 Payment Integration
+
+Omise  
+TrueMoney  
+Bank APIs
+
+---
+
+# 🧪 Testing
+
+k6 Load Testing  
+Smoke Testing  
+Ramp Load Testing  
+Unit Testing
+
+---
+
+# ☁️ Cloud
+
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" height="36" alt="AWS" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" height="36" alt="DigitalOcean" />
+
+</p>
+
+AWS  
+DigitalOcean  
+On-Premise Infrastructure
+
+---
+
+# 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
