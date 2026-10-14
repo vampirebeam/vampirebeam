@@ -1,235 +1,167 @@
-<h1 align="center">Hi 👋 I'm Beam (Parisut)</h1>
-<h3 align="center">Technical Lead | Enterprise Systems Engineer | Distributed Systems | DevOps</h3>
+<h1 align="center">Hi, I'm Beam (Parisut Buakaew)</h1>
+<h3 align="center">Technical Lead | Full-Stack Engineer | Platform & DevOps | AI Product</h3>
 
 <p align="center">
-  7+ years building Enterprise Systems, E-Commerce Platforms, Real-time Architectures, and Cloud Infrastructure
+  7 years building enterprise systems, government platforms, e-commerce and AI products — from planning and architecture to production and maintenance
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
+  <a href="https://parisut.dev"><b>Portfolio — parisut.dev</b></a> ·
+  <a href="https://parisut.dev/summary"><b>One-page Resume</b></a> ·
+  <a href="https://parisut.dev/projects"><b>Projects</b></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/vampirebeam">
+    <img src="https://komarev.com/ghpvc/?username=vampirebeam&label=Profile%20views&color=0b7752&style=flat" alt="Profile views" />
   </a>
 </p>
 
 ---
 
-## 💼 About Me
+## About Me
 
-- Technical Lead with **7 years of experience** in **Enterprise Software House, Enterprise E-Commerce, Enterprise IT, MCP, and AI Training**
-- Experienced across the full delivery lifecycle: **Requirement Gathering → System Design → Development → QA → Deployment → Production Support**
-- Led projects covering **Frontend, Backend, CI/CD, Infrastructure, Database, PM/CM**
-- Worked directly with users and stakeholders from **requirement analysis to production go-live**
-- Hands-on with **Agile workflow, sprint planning, task assignment, code review, and mentoring junior developers**
-- Strong focus on **performance optimization, production stability, and system scalability**
-- Designed **Redis-based real-time and worker processing architectures**
-- Interested in **Enterprise Architecture, Distributed Systems, Cloud Native, and High-Performance Backend**
+- **Technical Lead** at Intellicore Co., Ltd. — leading the team that took **Lohma**, an AI case-preparation product for Thai lawyers, from planning to production, and revamping the original system onto a new tech stack
+- Hands-on at every layer: **hardware and on-premise infrastructure, CI/CD, backend, frontend and AI services (OCR, ASR, LLM workflows)**
+- Delivered and maintained systems for **Thai government agencies** — Ministry of Finance, Ministry of Public Health, Ministry of Agriculture and Cooperatives, Ministry of Transport, Ministry of Social Development and Human Security, Office of Police Forensic Science, Metropolitan Police Bureau and Mahidol Wittayanusorn School
+- Full delivery lifecycle: **TOR / requirement analysis → system structure → team distribution → security testing → go-live → on-site PM/CM**
+- Systems designed with reference to **ISO/IEC 27001 and OWASP ASVS**, in line with **PDPA**
+- Agile delivery: sprint planning, task assignment, code review and mentoring
 
 ---
 
-## 🚀 Core Strengths
+## Core Strengths
 
-- Enterprise System Architecture
-- Full-Stack Technical Leadership
-- Distributed Systems & Worker Processing
-- Real-time Communication Architecture
-- CI/CD & Production Delivery
-- Performance Optimization & Bottleneck Analysis
-- Requirement Analysis & Stakeholder Communication
-- Agile Sprint Planning & Team Coordination
-- Code Review & Quality Assurance
-- Critical Thinking & Problem Solving
+- System architecture and technical decision-making with evidence (benchmark, PoC, decision records)
+- Full-stack technical leadership and team delivery
+- On-premise and cloud infrastructure, GitOps and CI/CD
+- Asynchronous processing, queues and worker architectures
+- AI product engineering (OCR, ASR, LLM workflows, PII masking)
+- Security-by-design and personal-data protection
+- Requirement / TOR analysis and stakeholder communication
+- Production support, incident response and PM/CM
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 
 ### Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" height="36" alt="Angular" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" height="36" alt="Vue" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" height="36" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="36" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="36" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="36" alt="jQuery" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" alt="Angular" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" alt="SCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="36" alt="MUI" />
 </p>
+
+React · Next.js · Angular · Vue · Nuxt (familiar) · Laravel Blade · JavaScript · TypeScript · jQuery · CSS · SCSS · Tailwind CSS · MUI · Ant Design · Bootstrap
 
 ### Backend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" height="36" alt="Python" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="36" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" height="36" alt=".NET" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" height="36" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="36" alt="ASP.NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36" alt="Lua" />
 </p>
 
-### Backend Frameworks
+- **Python:** FastAPI · Flask · Django (familiar)
+- **JavaScript / Node:** Node.js · Express · Bun · NestJS (familiar)
+- **Go:** Gin (familiar) · Fiber (familiar)
+- **C#:** ASP.NET
+- **PHP:** Laravel · CodeIgniter
+- **Other:** Lua · SQLAlchemy / Alembic (ORM)
+
+### Mobile
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="32" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="32" alt="Flask" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="32" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express" />
-  <img src="https://bun.sh/logo.svg" height="32" alt="Bun" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="32" alt="ASP.NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="32" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React Native" />
+  <img src="https://cdn.simpleicons.org/expo/000020" height="36" alt="Expo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="36" alt="Flutter" />
 </p>
 
-### Mobile & Cross Platform
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="36" alt="React Native" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="36" alt="Expo / Mobile" />
-</p>
+React Native · Expo · Flutter (familiar) · Kotlin (familiar)
 
-### Distributed Systems & Real-time
+### Database, Cache & Messaging
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36" alt="SQL Server" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="36" alt="Oracle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="36" alt="Socket.io" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Worker Systems" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="36" alt="RabbitMQ" />
 </p>
 
-- Redis (**Pub/Sub, Cache, Queue**)
-- Worker-based Architecture
-- Event-driven Systems (**Webhook**)
-- Real-time Communication (**Socket.io / WebSocket**)
+- **Database:** PostgreSQL · CloudNativePG · MySQL · MariaDB · SQL Server · Oracle · MongoDB
+- **Cache & Queue:** Redis · RabbitMQ · BullMQ · Redpanda (Kafka)
+- **Storage:** MinIO · Amazon S3
+- **Data Processing:** Apache Spark · PySpark
 
-### DevOps & Infrastructure
+### Platform, DevOps & Infrastructure
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" height="36" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" height="36" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="36" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="36" alt="Argo CD" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="36" alt="Jenkins" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="NGINX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="36" alt="Cloudflare" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="36" alt="GitLab" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="36" alt="GitLab CI/CD" />
 </p>
 
-- Docker
-- Kubernetes
-- KEDA
-- ArgoCD
-- Proxmox
-- Ingress Nginx
-- Load Balancer
-- Cloudflare
-- GitHub Actions
-- GitLab CI/CD
-- Lens / LensHQ
+- **Platform:** Docker · Kubernetes · K3s · KEDA · NGINX Ingress · API Gateway · Portainer · Proxmox · NVIDIA DGX · Linux (Debian) · WSL2
+- **CI/CD:** Argo CD (GitOps) · Jenkins · BuildKit · GitHub Actions · GitLab CI/CD
+- **Infra / Network:** On-premise · DigitalOcean · RunPod · Cloudflare · AWS (familiar) · High Availability · Load Balancing · Network Segmentation (VLAN) · Zero-Trust Access · MikroTik (RouterOS) · Cisco · FortiGate
 
-### Monitoring & Observability
+### Observability
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="36" alt="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="36" alt="Grafana" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="36" alt="Elasticsearch" />
 </p>
 
-- Prometheus
-- OpenObserve
-- Grafana
-- Loki
-- Promtail
-- Elasticsearch
-- Fluent Bit
-- promocX
+Prometheus · Grafana · Loki · Promtail · Elasticsearch · Fluent Bit · OpenObserve
 
-### Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="36" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" height="36" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="36" alt="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="36" alt="Oracle" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="36" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis" />
-</p>
+### AI / ML
+OCR (Typhoon OCR, fine-tuning) · ASR · RAG · NER · PII detection · MCP · Hugging Face · Claude · Gemini · ChatGPT
 
-- MySQL
-- PostgreSQL
-- SQL Server
-- Oracle
-- MongoDB
-- NoSQL
-- ORM
-- Redis
+### Security & Compliance
+OWASP Top 10 · OWASP ASVS (reference) · OWASP ZAP · SonarQube · Trivy · Gitleaks · Vulnerability Management (CVE) · OAuth2 · JWT · ThaID · PDPA
 
-### API, Security & Compliance
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oauth/oauth-original.svg" height="36" alt="OAuth2" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" height="36" alt="JWT / API" />
-</p>
+### Integration & Payment
+RESTful API · SOAP · Socket.IO · DOPA · ThaID · LINE Login · Omise · TrueMoney · Bank API · Resend
 
-- OAuth2
-- RESTful API
-- JWT
-- ThaID (e-KYC / Authentication)
-- SOAP
-- PDPA / PDPC
-- Socket.io
+### Testing
+k6 · Unit Testing · Smoke Testing · Stress Testing · Ramp Load Testing · Admin API Testing · Playwright
 
-### Payment Integration
-- Omise
-- TrueMoney
-- Bank API
-
-### Cloud Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" height="36" alt="DigitalOcean" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" height="36" alt="AWS" />
-</p>
-
-- DigitalOcean
-- AWS
-- On-premise Infrastructure
-
-### Testing & Quality
-<p align="left">
-  <img src="https://k6.io/img/icons/favicon.ico" height="32" alt="k6" />
-</p>
-
-- k6
-- Smoke Testing
-- Ramp Load
-- Unit Testing
-
-### Operating Systems
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" height="36" alt="Linux" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/windows-colored.svg" height="36" alt="Windows" />
-</p>
-
-- Windows
-- Linux (Ubuntu, Debian)
-
-### Collaboration Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="36" alt="GitLab" />
-  <img src="https://cdn.simpleicons.org/confluence/172B4D" height="36" alt="Confluence" />
-  <img src="https://cdn.simpleicons.org/clickup/7B68EE" height="36" alt="ClickUp" />
-</p>
-
-- GitHub
-- GitLab
-- Confluence
-- ClickUp
+### Tools
+Git · Fork · VS Code · Postman · Navicat · Termius · Docker Desktop · draw.io · Tailscale · WireGuard · Remote Desktop · AnyDesk · ClickUp · Confluence
 
 ---
 
-## 🏗 What I Usually Do
+## What I Usually Do
 
-- Gather and analyze requirements directly from users
-- Design end-to-end system architecture from **Frontend → Backend → CI/CD → Infrastructure**
-- Plan sprint execution and assign tasks following **Agile workflow**
-- Review code and maintain delivery quality before production release
-- Support and optimize production systems
-- Perform **k6 load testing** and analyze performance bottlenecks
-- Mentor junior developers and help teams deliver efficiently
+- Turn requirements and TORs into a technical roadmap, stack and clear scope
+- Design end-to-end systems: frontend → backend → CI/CD → infrastructure
+- Distribute work across the team, plan sprints and review code
+- Make systems pass security testing before acceptance
+- Present scope and progress to executives and stakeholders
+- Deliver, train users, and maintain production systems on site (PM/CM)
+
+---
+
+## Career Direction
+
+Technical Lead · Engineering Lead · Platform / DevOps Engineer · Solution Architect
 
 ---
 
-## 🎯 Career Direction
-
-- Technical Lead
-- Senior Full-Stack Engineer
-- Platform Engineer
-- DevOps Engineer
-- Distributed Systems Engineer
-- Enterprise Solution Architect
-
----
+<p align="center">More at <a href="https://parisut.dev">parisut.dev</a></p>
